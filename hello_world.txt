@@ -1,0 +1,1 @@
+This file will be for notes on my process of The Odin Project.
